@@ -1,2 +1,2 @@
 # hello-world
-tutorial o learn
+tutorial to learn
